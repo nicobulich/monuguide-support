@@ -4,126 +4,280 @@ description: Termini di utilizzo, acquisti in-app, limitazioni di responsabilit�
 last_updated: 2025-09-14
 ---
 
-# Termini di Servizio — MonuGuide (IT)
+# 🇮🇹 Termini di Servizio — MonuGuide
 
 **Ultimo aggiornamento:** 14 settembre 2025  
 **Titolare del servizio:** *Nicola Bulich* (“**noi**”, “**MonuGuide**”).  
 **Contatto:** [Nicola.Bulich@icloud.com](mailto:Nicola.Bulich@icloud.com)
 
-Questi Termini regolano l’uso dell’app **MonuGuide** per iOS. Usando l’app accetti integralmente i presenti Termini e la nostra [Informativa sulla privacy](./privacy).
-
----
+L’uso dell’app implica l’accettazione dei presenti Termini e della nostra [Privacy](./privacy).
 
 ## 1) Descrizione del servizio
-MonuGuide è un’audioguida smart che riconosce monumenti da una foto e genera spiegazioni testuali e vocali con l’aiuto di servizi di intelligenza artificiale. L’accuratezza non è garantita: **contenuti e riconoscimenti possono contenere errori**.
+MonuGuide è un’audioguida smart che riconosce monumenti da una foto e genera spiegazioni testuali e vocali con AI. L’accuratezza **non è garantita**.
 
 ## 2) Licenza d’uso
-Ti concediamo una **licenza personale, revocabile, non esclusiva e non trasferibile** per usare l’app. È vietato:
-- copiare, decompilare o fare reverse engineering dell’app;
-- eludere limiti d’uso, quote o paywall;
-- usare l’app per fini illegali o per addestrare modelli AI di terzi;
-- automatizzare richieste o “scraping” dei contenuti generati.
+Licenza personale, non trasferibile. È vietato: reverse engineering, elusione quote, scraping, uso illegale o per addestrare AI.
 
 ## 3) Requisiti e terze parti
-MonuGuide richiede **connessione Internet**, **fotocamera** e **posizione** (se abilitata). L’app si appoggia a servizi terzi (es. OpenAI, Apple, Google AdMob). L’uso di tali servizi è soggetto anche ai loro termini e policy.
+Richiesti: Internet, fotocamera, posizione (opzionale). L’app usa servizi di terzi (OpenAI, Apple, AdMob).
 
-## 4) Piani, prezzi e acquisti In-App
-Gli acquisti avvengono tramite **Apple In-App Purchases**. Prezzi e disponibilità possono variare per Paese/valuta.
+## 4) Acquisti In-App
+Acquisti tramite **Apple IAP**. Prezzi variabili per area geografica.
 
-- **Pass Giornaliero**: pacchetto consumabile di **30 foto** utilizzabili entro **24 ore** dall’acquisto.  
-- **Settimanale PRO**: **non-renewing pass** valido **7 giorni** (fino a **250 foto** a settimana). Non si rinnova automaticamente; alla scadenza puoi riacquistarlo.
+- **Pass Giornaliero**: 30 foto in 24h.  
+- **Settimanale PRO**: 250 foto in 7 giorni, non si rinnova.
 
-Le **quote** (foto residue) sono conteggiate localmente e/o su backend. Tentativi di elusione o abuso possono portare alla **sospensione** dell’account/ID dispositivo.
-
-### Ripristino acquisti
-Da app: **Impostazioni → Abbonamenti → Ripristina acquisti**.  
-Gestione Apple: <https://apps.apple.com/account/subscriptions>.
-
-### Rimborsi
-Eventuali rimborsi sono gestiti da **Apple** secondo le sue regole. Non gestiamo direttamente i pagamenti né conserviamo dati di carta.
+Tentativi di abuso/elusione → **sospensione**.  
+Ripristino: in-app o su <https://apps.apple.com/account/subscriptions>.  
+Rimborsi: gestiti da Apple.
 
 ## 5) Prova gratuita e pubblicità
-Potremmo offrire una **prova gratuita** con un numero limitato di foto. Durante il trial possono essere mostrati **annunci pubblicitari** (AdMob). La personalizzazione degli annunci richiede il tuo consenso (App Tracking Transparency) e segue la nostra [Privacy](./privacy).
+Trial limitato con pubblicità (AdMob). Annunci personalizzati solo con consenso ATT. Vedi [Privacy](./privacy).
 
 ## 6) Età minima
-Per effettuare acquisti In-App devi avere **almeno 18 anni** o essere autorizzato da un **genitore/tutore**. L’uso da parte di minori richiede supervisione del tutore.
+Minimo 18 anni o consenso genitori/tutori. Uso da minori solo con supervisione.
 
 ## 7) Proprietà intellettuale
-Tutti i diritti sull’app, sul marchio e sull’interfaccia sono riservati. I **contenuti generati** sono forniti “**così come sono**”, esclusivamente per **uso personale e informativo**.
+Tutti i diritti riservati. Contenuti generati forniti “**così come sono**”, solo per uso personale.
 
-## 8) Esclusione di garanzie
-L’app è fornita “**AS IS**”. Non garantiamo correttezza, disponibilità continua, compatibilità con ogni dispositivo o assenza di errori.
+## 8) Garanzie escluse
+L’app è fornita **AS IS**. Nessuna garanzia di correttezza o disponibilità continua.
 
 ## 9) Limitazione di responsabilità
-Nei limiti consentiti dalla legge, non rispondiamo di **danni indiretti**, perdita di dati o profitti, né per decisioni prese sulla base di contenuti generati dall’app (es. informazioni storiche errate).
+Non responsabili di danni indiretti o decisioni basate sui contenuti generati.
 
 ## 10) Modifiche e interruzioni
-Possiamo modificare funzionalità, prezzi o interrompere il servizio (in tutto o in parte) con o senza preavviso. In caso di modifiche sostanziali ai Termini, aggiorneremo questa pagina.
+Funzionalità, prezzi o disponibilità possono cambiare in ogni momento.
 
 ## 11) Risoluzione
-Possiamo sospendere o chiudere l’accesso se violi i Termini o utilizzi l’app in modo improprio.
+Accesso sospendibile in caso di violazione.
 
-## 12) Legge applicabile e foro
-Se risiedi nell’UE: si applicano le **leggi italiane** e restano salvi i tuoi diritti inderogabili di consumatore. Foro competente: **Italia** (salvo diversa tutela di legge).
+## 12) Legge applicabile
+Per l’UE si applica la **legge italiana**, con salvezza dei diritti del consumatore.
 
 ## 13) Contatti
-Per qualsiasi richiesta: **[Nicola.Bulich@icloud.com](mailto:Nicola.Bulich@icloud.com)**
+[**Nicola.Bulich@icloud.com**](mailto:Nicola.Bulich@icloud.com)
 
 ---
 
-# Terms of Service — MonuGuide (EN)
+# 🇬🇧 Terms of Service — MonuGuide
 
 **Last updated:** 14 September 2025  
 **Service owner:** *Nicola Bulich* (“**we**”, “**MonuGuide**”).  
 **Contact:** [Nicola.Bulich@icloud.com](mailto:Nicola.Bulich@icloud.com)
 
-By using **MonuGuide** you agree to these Terms and to our [Privacy Policy](./privacy).
+By using the app, you accept these Terms and our [Privacy Policy](./privacy).
 
-## 1) Service
-MonuGuide is a smart audio guide using AI to recognize monuments from a photo and generate text & voice explanations. **Accuracy is not guaranteed** and outputs may contain errors.
+## 1) Service description
+MonuGuide uses AI to recognize monuments from photos and generate audio/text guides. **Accuracy is not guaranteed**.
 
 ## 2) License
-We grant you a **personal, revocable, non-exclusive, non-transferable** license. You must not: reverse engineer, bypass quotas/paywalls, use the app for illegal purposes, train third-party models with our outputs, or automate scraping.
+Personal, non-transferable license. You may not reverse engineer, bypass quotas, scrape, use illegally, or train AI with outputs.
 
 ## 3) Requirements & third parties
-Requires **Internet**, **camera**, and optionally **location**. Third-party services (e.g., OpenAI, Apple, Google AdMob) apply with their own terms and policies.
+Requires: internet, camera, optional location. Third-party services: OpenAI, Apple, Google AdMob.
 
-## 4) Plans, pricing & IAP
-Purchases are processed via **Apple In-App Purchases**; prices may vary by country.
+## 4) In-App Purchases
+Processed via **Apple IAP**. Prices may vary by country.
 
-- **Day Pass**: consumable **30 photos** within **24 hours**.  
-- **Weekly PRO**: **non-renewing pass** valid **7 days** (up to **250 photos/week**); it does **not** auto-renew.
+- **Day Pass**: 30 photos in 24h.  
+- **Weekly PRO**: 250 photos in 7 days, non-renewing.
 
-Quotas are tracked locally and/or on our backend. Abuse or circumvention may lead to **suspension**.
-
-**Restore purchases:** in-app (*Settings → Subscriptions → Restore*) or  
-<https://apps.apple.com/account/subscriptions>.
-
-**Refunds:** handled by **Apple** under its policies. We do not process or store card data.
+Abuse may lead to **suspension**.  
+Restore: in-app or via <https://apps.apple.com/account/subscriptions>.  
+Refunds: handled by Apple.
 
 ## 5) Free trial & ads
-A **limited free trial** may be offered. Ads (AdMob) may be shown during trial periods. Personalized ads require your ATT consent (see [Privacy](./privacy)).
+Limited trial may include ads (AdMob). Personalized ads require ATT consent. See [Privacy](./privacy).
 
 ## 6) Minimum age
-You must be **18+** to make purchases or have **parent/guardian consent**. Minors should use the app under supervision.
+18+ or guardian approval. Minors should use under supervision.
 
 ## 7) IP
-All rights in the app are reserved. **AI outputs** are provided **“as is”** for **personal, informational** use only.
+All rights reserved. Generated content is “**as is**”, for personal/informational use only.
 
 ## 8) No warranties
-The app is provided **AS IS** without warranties of accuracy, availability, or fitness.
+App provided **AS IS**. No warranty of accuracy or availability.
 
 ## 9) Liability
-To the maximum extent allowed by law, we are not liable for **indirect**, incidental, or consequential damages, or decisions taken based on the generated content.
+We’re not liable for indirect damages or decisions based on app content.
 
 ## 10) Changes & availability
-We may change features, pricing, or discontinue the service at any time. Material changes to these Terms will be posted here.
+Features, pricing or service may change anytime.
 
 ## 11) Termination
-We may suspend or terminate access if you violate these Terms or misuse the service.
+Access may be suspended for violations.
 
 ## 12) Governing law
-For EU residents: **Italian law** applies; mandatory consumer protections remain unaffected. Venue: **Italy** (unless otherwise required by law).
+For EU: **Italian law** applies; consumer rights preserved.
 
 ## 13) Contact
-**[Nicola.Bulich@icloud.com](mailto:Nicola.Bulich@icloud.com)**
+[**Nicola.Bulich@icloud.com**](mailto:Nicola.Bulich@icloud.com)
+
+---
+
+# 🇫🇷 Conditions d'utilisation — MonuGuide
+
+**Dernière mise à jour :** 14 septembre 2025  
+**Responsable du service :** *Nicola Bulich*  
+**Contact :** [Nicola.Bulich@icloud.com](mailto:Nicola.Bulich@icloud.com)
+
+L’utilisation de l’app implique l’acceptation des présentes Conditions et de notre [Politique de confidentialité](./privacy).
+
+## 1) Service
+MonuGuide utilise l’IA pour reconnaître des monuments à partir de photos. **Aucune garantie d’exactitude**.
+
+## 2) Licence
+Licence personnelle, non transférable. Interdiction de décompiler, contourner, automatiser ou entraîner une IA externe.
+
+## 3) Conditions techniques
+Internet, caméra, localisation (optionnelle). Services tiers : OpenAI, Apple, Google AdMob.
+
+## 4) Achats In-App
+Via **Apple IAP**. Prix variables.
+
+- **Pass Journée** : 30 photos en 24h  
+- **Pass PRO Hebdo** : 250 photos en 7 jours, non renouvelable
+
+Abus = **suspension**.  
+Restauration : dans l’app ou sur <https://apps.apple.com/account/subscriptions>.  
+Remboursements : gérés par Apple.
+
+## 5) Essai gratuit et publicités
+Essai limité possible, avec publicités (AdMob). Annonces personnalisées avec consentement ATT. Voir [Politique](./privacy).
+
+## 6) Âge minimum
+18+ ou autorisation parentale. Surveillance requise pour mineurs.
+
+## 7) Propriété intellectuelle
+Tous droits réservés. Contenu généré “**en l’état**”, usage personnel uniquement.
+
+## 8) Absence de garantie
+App fournie **EN L’ÉTAT**, sans garantie de disponibilité ou exactitude.
+
+## 9) Limitation de responsabilité
+Aucune responsabilité pour dommages indirects.
+
+## 10) Modifications
+Le service peut être modifié ou interrompu à tout moment.
+
+## 11) Résiliation
+Suspension possible en cas de non-respect.
+
+## 12) Droit applicable
+Loi italienne applicable. Droits des consommateurs garantis.
+
+## 13) Contact
+[**Nicola.Bulich@icloud.com**](mailto:Nicola.Bulich@icloud.com)
+
+---
+
+# 🇩🇪 Nutzungsbedingungen — MonuGuide
+
+**Zuletzt aktualisiert:** 14. September 2025  
+**Diensteanbieter:** *Nicola Bulich*  
+**Kontakt:** [Nicola.Bulich@icloud.com](mailto:Nicola.Bulich@icloud.com)
+
+Durch Nutzung der App akzeptieren Sie diese Bedingungen und unsere [Datenschutzrichtlinie](./privacy).
+
+## 1) Dienstbeschreibung
+MonuGuide verwendet KI zur Erkennung von Monumenten anhand von Fotos. **Keine Garantie für Korrektheit.**
+
+## 2) Lizenz
+Persönliche, nicht übertragbare Lizenz. Reverse Engineering, Automatisierung oder KI-Training untersagt.
+
+## 3) Anforderungen
+Internet, Kamera, (optional) Standort. Drittanbieter: OpenAI, Apple, AdMob.
+
+## 4) In-App-Käufe
+Über **Apple IAP**. Preise variieren.
+
+- **Tagespass**: 30 Fotos in 24 Std.  
+- **PRO-Woche**: 250 Fotos in 7 Tagen, keine Verlängerung
+
+Missbrauch → **Sperrung**  
+Wiederherstellung: In-App oder <https://apps.apple.com/account/subscriptions>  
+Rückerstattungen: durch Apple
+
+## 5) Gratisversion & Werbung
+Eingeschränkte Gratisnutzung mit Werbung möglich. Personalisierte Anzeigen nur mit ATT-Zustimmung. Siehe [Datenschutz](./privacy).
+
+## 6) Mindestalter
+Ab 18 Jahren oder mit Erlaubnis. Nutzung durch Minderjährige nur unter Aufsicht.
+
+## 7) Geistiges Eigentum
+Alle Rechte vorbehalten. KI-Ergebnisse “**wie sie sind**”, nur zur privaten Nutzung.
+
+## 8) Keine Gewährleistung
+App wird “**wie sie ist**” bereitgestellt. Keine Garantie.
+
+## 9) Haftung
+Keine Haftung für indirekte Schäden.
+
+## 10) Änderungen
+Dienste, Preise und Funktionen können sich jederzeit ändern.
+
+## 11) Kündigung
+Verstoß → möglicher Ausschluss.
+
+## 12) Rechtsordnung
+Für EU-Nutzer gilt italienisches Recht.
+
+## 13) Kontakt
+[**Nicola.Bulich@icloud.com**](mailto:Nicola.Bulich@icloud.com)
+
+---
+
+# 🇪🇸 Términos de Servicio — MonuGuide
+
+**Última actualización:** 14 de septiembre de 2025  
+**Responsable:** *Nicola Bulich*  
+**Contacto:** [Nicola.Bulich@icloud.com](mailto:Nicola.Bulich@icloud.com)
+
+El uso de la app implica aceptación de estos Términos y de nuestra [Política de privacidad](./privacy).
+
+## 1) Servicio
+MonuGuide usa IA para reconocer monumentos desde fotos. **No se garantiza la precisión.**
+
+## 2) Licencia
+Licencia personal, intransferible. Prohibido ingeniería inversa, scraping, bypass de límites, uso ilegal o entrenamiento de IA.
+
+## 3) Requisitos
+Internet, cámara, ubicación (opcional). Usa servicios de terceros: OpenAI, Apple, AdMob.
+
+## 4) Compras In-App
+A través de **Apple IAP**. Precios variables.
+
+- **Pase Diario**: 30 fotos en 24h  
+- **PRO Semanal**: 250 fotos/7 días, no se renueva
+
+Abuso → **suspensión**  
+Restauración: en la app o <https://apps.apple.com/account/subscriptions>  
+Reembolsos: Apple los gestiona
+
+## 5) Prueba gratuita y anuncios
+Puede incluir prueba con anuncios (AdMob). Anuncios personalizados requieren consentimiento ATT. Ver [Privacidad](./privacy).
+
+## 6) Edad mínima
+18+ o autorización del tutor. Uso por menores solo con supervisión.
+
+## 7) Propiedad intelectual
+Todos los derechos reservados. Contenido generado “**tal cual**”, solo uso personal.
+
+## 8) Sin garantías
+La app se ofrece “**tal cual**”. Sin garantía de disponibilidad o exactitud.
+
+## 9) Responsabilidad
+No somos responsables por daños indirectos.
+
+## 10) Cambios
+Funciones o servicio pueden cambiar en cualquier momento.
+
+## 11) Cancelación
+Acceso puede ser suspendido por mal uso.
+
+## 12) Legislación
+Aplica la **ley italiana**. Derechos del consumidor no se ven afectados.
+
+## 13) Contacto
+[**Nicola.Bulich@icloud.com**](mailto:Nicola.Bulich@icloud.com)
