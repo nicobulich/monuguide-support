@@ -1,81 +1,56 @@
 # MonuGuide — Support & Legal Hub
 
+---
+
+## 🇮🇹 Italiano
 Sito di supporto ufficiale per **MonuGuide (iOS)** pubblicato con **GitHub Pages**.  
 Qui trovi contatti/assistenza, Informativa Privacy e Termini di Servizio.
 
-- 🌐 **Sito live:** https://nicobulich.github.io/monuguide-support/
-- 📮 **Supporto / Contatti:** https://nicobulich.github.io/monuguide-support/contact
-- 🔐 **Privacy Policy:** https://nicobulich.github.io/monuguide-support/privacy
-- 📜 **Termini di Servizio:** https://nicobulich.github.io/monuguide-support/terms
-
-> Questo repository contiene solo le pagine di supporto/legali.  
-> Il codice dell’app iOS non è incluso qui.
+- 🌐 **Sito live:** https://nicobulich.github.io/monuguide-support/  
+- 📮 **Supporto / Contatti:** https://nicobulich.github.io/monuguide-support/contact  
+- 🔐 **Privacy Policy:** https://nicobulich.github.io/monuguide-support/privacy  
+- 📜 **Termini di Servizio:** https://nicobulich.github.io/monuguide-support/terms  
 
 ---
 
-## Contenuti del repository
+## 🇬🇧 English
+Official support site for **MonuGuide (iOS)** published with **GitHub Pages**.  
+Here you will find contact/support, Privacy Policy, and Terms of Service.
 
-| File/Cartella  | Descrizione |
-| --- | --- |
-| `index.md`   | Home del centro assistenza (link a contatti, privacy, termini). |
-| `contact.md` | Pagina contatti/assistenza (email, modulo/istruzioni). |
-| `privacy.md` | Informativa sulla privacy. |
-| `terms.md`   | Termini di Servizio. |
-| `README.md`  | Questo file. |
-
-Tutte le pagine sono scritte in **Markdown** e pubblicate automaticamente da GitHub Pages.
+- 🌐 **Live site:** https://nicobulich.github.io/monuguide-support/  
+- 📮 **Support / Contact:** https://nicobulich.github.io/monuguide-support/contact  
+- 🔐 **Privacy Policy:** https://nicobulich.github.io/monuguide-support/privacy  
+- 📜 **Terms of Service:** https://nicobulich.github.io/monuguide-support/terms  
 
 ---
 
-## Pubblicazione (GitHub Pages)
+## 🇫🇷 Français
+Site officiel d’assistance pour **MonuGuide (iOS)** publié avec **GitHub Pages**.  
+Vous trouverez ici le contact/l’assistance, la Politique de Confidentialité et les Conditions d’Utilisation.
 
-- **Branch:** `main`  
-- **Cartella:** root (`/`)  
-- Ogni commit su `main` attiva un nuovo deploy (1–2 minuti).  
-- Impostazioni: **Repository → Settings → Pages**.
-
-Se dopo un commit non vedi gli aggiornamenti:
-1. Attendi 1–2 minuti.
-2. Fai hard refresh del browser (⌘⇧R / Ctrl+F5).
-3. Controlla **Actions** per eventuali errori di build.
+- 🌐 **Site en ligne :** https://nicobulich.github.io/monuguide-support/  
+- 📮 **Support / Contact :** https://nicobulich.github.io/monuguide-support/contact  
+- 🔐 **Politique de Confidentialité :** https://nicobulich.github.io/monuguide-support/privacy  
+- 📜 **Conditions d’Utilisation :** https://nicobulich.github.io/monuguide-support/terms  
 
 ---
 
-## Come modificare i contenuti
+## 🇩🇪 Deutsch
+Offizielle Support-Seite für **MonuGuide (iOS)**, veröffentlicht mit **GitHub Pages**.  
+Hier finden Sie Kontakt/Support, Datenschutzrichtlinie und Nutzungsbedingungen.
 
-1. Apri il file che vuoi aggiornare (`index.md`, `privacy.md`, ecc.).
-2. Clicca **Edit**, modifica in Markdown.
-3. **Commit changes** su `main` (o apri una PR se preferisci).
-4. Verifica online dopo il deploy.
-
-> Puoi aggiungere un titolo SEO per ogni pagina con front-matter:
-> ```markdown
-> ---
-> title: Privacy Policy — MonuGuide
-> ---
-> ```
+- 🌐 **Live-Seite:** https://nicobulich.github.io/monuguide-support/  
+- 📮 **Support / Kontakt:** https://nicobulich.github.io/monuguide-support/contact  
+- 🔐 **Datenschutzrichtlinie:** https://nicobulich.github.io/monuguide-support/privacy  
+- 📜 **Nutzungsbedingungen:** https://nicobulich.github.io/monuguide-support/terms  
 
 ---
 
-## Link da usare su App Store Connect
+## 🇪🇸 Español
+Sitio oficial de soporte para **MonuGuide (iOS)** publicado con **GitHub Pages**.  
+Aquí encontrarás contacto/soporte, Política de Privacidad y Términos de Servicio.
 
-- **URL assistenza (Support URL):**  
-  `https://nicobulich.github.io/monuguide-support/contact`
-- **Privacy Policy URL:**  
-  `https://nicobulich.github.io/monuguide-support/privacy`
-- **Termini di Servizio (facoltativo in App Store):**  
-  `https://nicobulich.github.io/monuguide-support/terms`
-
----
-
-## 404 personalizzata (opzionale)
-
-Per una pagina 404 più pulita, aggiungi `404.md`:
-
-```markdown
----
-permalink: /404.html
-title: Pagina non trovata
----
-# 404 — Pagina non trovata
-Torna alla [home del supporto](./).
+- 🌐 **Sitio en vivo:** https://nicobulich.github.io/monuguide-support/  
+- 📮 **Soporte / Contacto:** https://nicobulich.github.io/monuguide-support/contact  
+- 🔐 **Política de Privacidad:** https://nicobulich.github.io/monuguide-support/privacy  
+- 📜 **Términos de Servicio:** https://nicobulich.github.io/monuguide-support/terms  
