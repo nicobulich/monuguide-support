@@ -24,8 +24,8 @@ Richiesti: Internet, fotocamera, posizione (opzionale). L’app usa servizi di t
 ## 4) Acquisti In-App
 Acquisti tramite **Apple IAP**. Prezzi variabili per area geografica.
 
-- **Pass Giornaliero**: 30 foto in 24h.  
-- **Settimanale PRO**: 250 foto in 7 giorni, non si rinnova.
+- **Pass Settimanale**: 30 foto in 7 giorni.  
+- **Pass Mensile**: 250 foto in 30 giorni, non si rinnova.
 
 Tentativi di abuso/elusione → **sospensione**.  
 Ripristino: in-app o su <https://apps.apple.com/account/subscriptions>.  
@@ -80,8 +80,9 @@ Requires: internet, camera, optional location. Third-party services: OpenAI, App
 ## 4) In-App Purchases
 Processed via **Apple IAP**. Prices may vary by country.
 
-- **Day Pass**: 30 photos in 24h.  
-- **Weekly PRO**: 250 photos in 7 days, non-renewing.
+- **Weekly Pass**: 30 photos in 7 days.
+
+- **Monthly Pass**: 250 photos in 30 days, does not renew.
 
 Abuse may lead to **suspension**.  
 Restore: in-app or via <https://apps.apple.com/account/subscriptions>.  
@@ -136,9 +137,9 @@ Internet, caméra, localisation (optionnelle). Services tiers : OpenAI, Apple, G
 ## 4) Achats In-App
 Via **Apple IAP**. Prix variables.
 
-- **Pass Journée** : 30 photos en 24h  
-- **Pass PRO Hebdo** : 250 photos en 7 jours, non renouvelable
-
+- **Pass ** : 30 photos en 7 jours.  
+- **Pass Mensuel : 250 photos en 30 jours, ne se renouvelle pas.
+  
 Abus = **suspension**.  
 Restauration : dans l’app ou sur <https://apps.apple.com/account/subscriptions>.  
 Remboursements : gérés par Apple.
@@ -192,8 +193,8 @@ Internet, Kamera, (optional) Standort. Drittanbieter: OpenAI, Apple, AdMob.
 ## 4) In-App-Käufe
 Über **Apple IAP**. Preise variieren.
 
-- **Tagespass**: 30 Fotos in 24 Std.  
-- **PRO-Woche**: 250 Fotos in 7 Tagen, keine Verlängerung
+- **Wöchentlicher Pass**: 30 Fotos in 7 Tagen  
+- **Monatspass:**: 250 Fotos in 30 Tagen, wird nicht verlängert.
 
 Missbrauch → **Sperrung**  
 Wiederherstellung: In-App oder <https://apps.apple.com/account/subscriptions>  
@@ -248,8 +249,8 @@ Internet, cámara, ubicación (opcional). Usa servicios de terceros: OpenAI, App
 ## 4) Compras In-App
 A través de **Apple IAP**. Precios variables.
 
-- **Pase Diario**: 30 fotos en 24h  
-- **PRO Semanal**: 250 fotos/7 días, no se renueva
+- **Pase Semanal**: 30 fotos en 7 días.  
+- **Pase Mensual**: 250 fotos en 30 días, no se renueva
 
 Abuso → **suspensión**  
 Restauración: en la app o <https://apps.apple.com/account/subscriptions>  
